@@ -24,10 +24,13 @@ nodejs + express + mongodb 完成的一个小型电商网站
 - package.json npm的配置文件
 </pre>
 
-fock后，本地试搭过程如下：
-wap网站，电脑访问格式不全。初体验很好的。
-node npm mongdb环境配置基本没什么问题，在npm install 之后是缺少了cross-env 和 nodemon
-命令分别是：
-npm i cross-env --save-dev
-npm install -g nodemon
-还有一点我是关掉防火墙访问的，继续看下，谢谢。。
+#简单使用
+<pre>
+-fock后，本地试搭过程如下：
+-wap网站，电脑访问格式不全。初体验很好的。
+-node npm mongdb环境配置基本没什么问题，在npm install 之后是缺少了cross-env 和 nodemon
+-命令分别是：
+-npm i cross-env --save-dev
+-npm install -g nodemon
+-还有一点我是关掉防火墙访问的，继续看下，谢谢。。
+</pre>
